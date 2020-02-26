@@ -102,7 +102,7 @@ def before():
                                                        "\nRed Philosopher: He is eating"
                                                        "\nYellow Philosopher: He is hungry"
                                                        "\nGreen Philosopher: He has finished thinking and eating"
-                                                       "\n\nBlue Fork: It is token by a Philosopher"
+                                                       "\n\nBlue Fork: It is taken by a Philosopher"
                                                         "\nWhite Fork: It is free"
                                                         "\n\nPS: You can change the Time Constraint whenever you want !"
                                                        "\nAre you ready ?")
